@@ -1,0 +1,6 @@
+D:\Visual Studio\OOPAdvanced\Exercises Reflection\Problem 1. Harvesting Fields\bin\Debug\Problem_1.Harvesting_Fields.exe.config
+D:\Visual Studio\OOPAdvanced\Exercises Reflection\Problem 1. Harvesting Fields\bin\Debug\Problem_1.Harvesting_Fields.exe
+D:\Visual Studio\OOPAdvanced\Exercises Reflection\Problem 1. Harvesting Fields\bin\Debug\Problem_1.Harvesting_Fields.pdb
+D:\Visual Studio\OOPAdvanced\Exercises Reflection\Problem 1. Harvesting Fields\obj\Debug\Problem 1. Harvesting Fields.csprojResolveAssemblyReference.cache
+D:\Visual Studio\OOPAdvanced\Exercises Reflection\Problem 1. Harvesting Fields\obj\Debug\Problem_1.Harvesting_Fields.exe
+D:\Visual Studio\OOPAdvanced\Exercises Reflection\Problem 1. Harvesting Fields\obj\Debug\Problem_1.Harvesting_Fields.pdb
